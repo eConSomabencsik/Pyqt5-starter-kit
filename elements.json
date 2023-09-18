@@ -1,0 +1,14 @@
+{
+    "elements": [
+        "elements.example",
+        "elements.example2"
+    ],
+    "guis": [
+        {
+            "name": "example"
+        },
+        {
+            "name": "example2"
+        }
+    ]
+}
